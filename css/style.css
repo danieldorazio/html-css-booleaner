@@ -32,7 +32,12 @@ header .logo{
 .didascalia {
     font-size: 10px;
 }
+
 /*PARAGRAFO*/
 .evidenziato{
     background-color: yellow;
+}
+/*LISTA NON ORDINATA*/
+.lista-punti{
+    padding-left: 20px;
 }
