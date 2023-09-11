@@ -29,6 +29,10 @@ header .logo{
 }
 
 /*BOX-FOTO*/
-.didascalia{
+.didascalia {
     font-size: 10px;
+}
+/*PARAGRAFO*/
+.evidenziato{
+    background-color: yellow;
 }
