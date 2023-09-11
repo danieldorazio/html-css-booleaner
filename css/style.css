@@ -1,0 +1,16 @@
+* body{
+    border: 0;
+    margin: 0;
+}
+header {
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 400px ;  /*perche non usare cover, per posizionarlo come da foto sono andato a tentaivi con i px*/
+
+}
+header .logo{
+    width: 150px;
+    position: absolute;  /*da vedere*/
+    top: 50px; /*sono andato a tentativi non è bello */
+}
