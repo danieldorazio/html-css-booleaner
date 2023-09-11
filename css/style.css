@@ -41,3 +41,21 @@ header .logo{
 .lista-punti{
     padding-left: 20px;
 }
+/*TABELLA DA VISIONARE BENE*/
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    padding: 20px;
+    text-align: left;
+    
+}
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+.dispari{
+    background-color: #b1e5f2;
+
+}
